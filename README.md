@@ -7,4 +7,4 @@ Aruino       PT6311\
 MISO         DOUT\
 MOSI         DIN\
 SCK          CLK\
-SS           STB\
+SS           STB
